@@ -19,7 +19,7 @@ public:
             if(curr->val == curr->next->val) {
                 curr->next = curr->next->next; // skip duplicate
             } else {
-                curr = curr->next; // move forward
+           curr = curr->next; // move forward
             }
         }
         return head;
