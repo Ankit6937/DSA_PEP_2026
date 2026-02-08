@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0035-search-insert-position) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 <!---LeetCode Topics End-->
