@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0234-palindrome-linked-list) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0234-palindrome-linked-list) |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
