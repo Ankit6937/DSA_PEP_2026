@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 ## Math
@@ -92,8 +93,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
