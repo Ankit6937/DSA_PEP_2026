@@ -135,18 +135,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0003-longest-substring-without-repeating-characters) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
