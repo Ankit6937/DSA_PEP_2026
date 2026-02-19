@@ -50,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Sliding Window
 |  |
@@ -208,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
