@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0007-reverse-integer) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Divide and Conquer
 |  |
