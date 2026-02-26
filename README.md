@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
+| [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Binary Search
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
