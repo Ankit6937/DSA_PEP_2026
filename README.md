@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0141-linked-list-cycle) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
 ## Linked List
