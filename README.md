@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0134-gas-station) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0142-linked-list-cycle-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
@@ -316,4 +319,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
