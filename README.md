@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0155-min-stack) |
