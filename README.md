@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Greedy
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Union-Find
 |  |
 | ------- |
