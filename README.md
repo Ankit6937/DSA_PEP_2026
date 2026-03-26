@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3643-flip-square-submatrix-vertically) |
 ## Union-Find
@@ -350,8 +353,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Enumeration
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
