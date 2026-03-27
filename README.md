@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0009-palindrome-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3079-find-the-sum-of-encrypted-integers) |
 ## Divide and Conquer
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Data Stream
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
