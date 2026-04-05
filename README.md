@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
+| [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
