@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
+| [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
