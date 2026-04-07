@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0901-online-stock-span) |
+| [2069-walking-robot-simulation-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2069-walking-robot-simulation-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
