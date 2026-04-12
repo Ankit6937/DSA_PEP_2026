@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
 | [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0022-generate-parentheses) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
