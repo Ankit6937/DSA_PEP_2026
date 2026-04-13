@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
