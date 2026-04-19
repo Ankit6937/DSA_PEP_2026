@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0035-search-insert-position) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0876-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3643-flip-square-submatrix-vertically) |
 ## String
 |  |
