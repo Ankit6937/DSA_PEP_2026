@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0048-rotate-image) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0134-gas-station) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0048-rotate-image) |
 | [0130-surrounded-regions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
