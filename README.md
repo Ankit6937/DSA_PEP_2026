@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3488-closest-equal-element-queries) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
