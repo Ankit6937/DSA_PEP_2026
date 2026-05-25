@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1871-jump-game-vii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1871-jump-game-vii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
+| [1871-jump-game-vii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1871-jump-game-vii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1871-jump-game-vii) |
 | [2463-minimum-total-distance-traveled](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
