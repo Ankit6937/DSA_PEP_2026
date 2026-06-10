@@ -1,48 +1,42 @@
-class SparseTable {
-    vector<vector<int>> Min, Max;
-
-public:
-    SparseTable(const vector<int>& num) {
-        size_t n = num.size();
-        int w = bit_width(n);
-        Min.resize(w, vector<int>(n));
-        Max.resize(w, vector<int>(n));
-
-        for (int i = 0; i < n; i++)
-            Min[0][i] = Max[0][i] = num[i];
-
-        for (int i = 1; i < w; i++)
-            for (int j = 0; j + (1 << i) <= n; j++) {
-                Min[i][j] = min(Min[i - 1][j], Min[i - 1][j + (1 << (i - 1))]);
-                Max[i][j] = max(Max[i - 1][j], Max[i - 1][j + (1 << (i - 1))]);
-            }
-    }
-
-    int query(int left, int right) {
-        int k = bit_width((uint32_t)right - left) - 1;
-        return max(Max[k][left], Max[k][right - (1 << k)]) -
-               min(Min[k][left], Min[k][right - (1 << k)]);
-    }
-};
-
 class Solution {
 public:
     long long maxTotalValue(vector<int>& nums, int k) {
         int n = nums.size();
-        long long res = 0;
-        SparseTable LUT(nums);
-
+        int logn = 32 - __builtin_clz(n);
+        vector<vector<int>> stMax(n, vector<int>(logn));
+        vector<vector<int>> stMin(n, vector<int>(logn));
+        for (int i = 0; i < n; i++) {
+            stMax[i][0] = stMin[i][0] = nums[i];
+        }
+        for (int j = 1; j < logn; j++) {
+            for (int i = 0; i + (1 << j) <= n; i++) {
+                stMax[i][j] =
+                    max(stMax[i][j - 1], stMax[i + (1 << (j - 1))][j - 1]);
+                stMin[i][j] =
+                    min(stMin[i][j - 1], stMin[i + (1 << (j - 1))][j - 1]);
+            }
+        }
+        auto queryMax = [&](int l, int r) {
+            int j = 31 - __builtin_clz(r - l + 1);
+            return max(stMax[l][j], stMax[r - (1 << j) + 1][j]);
+        };
+        auto queryMin = [&](int l, int r) {
+            int j = 31 - __builtin_clz(r - l + 1);
+            return min(stMin[l][j], stMin[r - (1 << j) + 1][j]);
+        };
         priority_queue<tuple<int, int, int>> pq;
-        for (int i = 0; i < n; i++)
-            pq.emplace(LUT.query(i, n), i, n);
-
-        while (get<0>(pq.top()) && k--) {
+        for (int l = 0; l < n; l++) {
+            pq.emplace(queryMax(l, n - 1) - queryMin(l, n - 1), l, n - 1);
+        }
+        long long ans = 0;
+        while (k--) {
             auto [val, l, r] = pq.top();
             pq.pop();
-            res += val;
-            pq.emplace(LUT.query(l, r - 1), l, r - 1);
+            ans += val;
+            if (r > l) {
+                pq.emplace(queryMax(l, r - 1) - queryMin(l, r - 1), l, r - 1);
+            }
         }
-
-        return res;
+        return ans;
     }
 };
