@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0901-online-stock-span) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
 ## Math
 |  |
