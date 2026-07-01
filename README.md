@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3161-block-placement-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3488-closest-equal-element-queries) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Search Tree
 |  |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Quickselect
 |  |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -599,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
