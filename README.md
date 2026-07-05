@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1345-jump-game-iv) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0788-rotated-digits) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
