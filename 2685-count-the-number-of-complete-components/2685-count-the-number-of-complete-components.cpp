@@ -1,45 +1,39 @@
 class Solution {
 public:
     int countCompleteComponents(int n, vector<vector<int>>& edges) {
-        // adjacency lists for each vertex
-        vector<vector<int>> graph(n);
-        // map to store frequency of each unique adjacency list
-        unordered_map<string, int> componentFreq;
+        vector<vector<int>> A(n);
 
-        // initialize adjacency lists with self-loops
-        for (int vertex = 0; vertex < n; vertex++) {
-            graph[vertex].push_back(vertex);
+        for (auto& e : edges) {
+            int u = e[0], v = e[1];
+            A[u].push_back(v);
+            A[v].push_back(u);
         }
 
-        // build adjacency lists from edges
-        for (const auto& edge : edges) {
-            graph[edge[0]].push_back(edge[1]);
-            graph[edge[1]].push_back(edge[0]);
-        }
+        bitset<51> vis;
+        int res = 0;
 
-        // count frequency of each unique adjacency pattern
-        for (int vertex = 0; vertex < n; vertex++) {
-            vector<int> neighbors = graph[vertex];
-            sort(neighbors.begin(), neighbors.end());
+        for (int i = 0; i < n; i++) {
+            bool state = vis.test(i);
 
-            // convert vector to string for hashing
-            string key;
-            for (int num : neighbors) {
-                key += to_string(num) + ",";
-            }
-            componentFreq[key]++;
-        }
+            if (!state) {
+                int V = 0, D = 0;
 
-        // count complete components where size equals frequency
-        int completeCount = 0;
-        for (const auto& entry : componentFreq) {
-            // count commas to get original vector size
-            int size = count(entry.first.begin(), entry.first.end(), ',');
-            if (size == entry.second) {
-                completeCount++;
+                auto dfs = [&](auto& self, int x) -> void {
+                    V++;
+                    D += A[x].size();
+                    vis.set(x);
+
+                    for (auto& state : A[x])
+                        if (!vis.test(state))
+                            self(self, state);
+                };
+
+                dfs(dfs, i);
+
+                res += D == V * (V - 1);
             }
         }
 
-        return completeCount;
+        return res;
     }
 };
