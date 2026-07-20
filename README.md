@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1306-jump-game-iii) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0735-asteroid-collision) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1260-shift-2d-grid) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
