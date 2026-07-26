@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1288-remove-covered-intervals) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1840-maximum-building-height) |
