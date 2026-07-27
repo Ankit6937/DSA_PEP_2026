@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1331-rank-transform-of-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1840-maximum-building-height) |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0658-find-k-closest-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3620-network-recovery-pathways) |
