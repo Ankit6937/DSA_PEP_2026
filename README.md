@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0486-predict-the-winner) |
 ## Stack
 |  |
 | ------- |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -802,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
