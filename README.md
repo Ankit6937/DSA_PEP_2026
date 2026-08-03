@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0874-walking-robot-simulation](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1189-maximum-number-of-balloons) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -576,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/0994-rotting-oranges) |
 | [1306-jump-game-iii](https://github.com/Ankit6937/DSA_PEP_2026/tree/master/1306-jump-game-iii) |
